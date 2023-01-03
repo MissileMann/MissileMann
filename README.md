@@ -1,4 +1,4 @@
-Minecraft Pack maker and Skyrim mod maker
+Minecraft mod dev, Pack maker and Skyrim mod maker
 https://www.nexusmods.com/skyrimspecialedition/users/51322576
 
 <!---
